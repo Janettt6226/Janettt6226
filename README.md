@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eléonore Baillot
-- 👀 I’m interested in Web Development and I’m looking for a Full Stack developer position
+- 👀 I’m interested in Web Development and Product Management
 - 🌱 I’m currently coding on Ruby on Rails
 - 🦾 My biggest strengths: Consistence, Fast-learner, Collaboration
 - 📫 Reach me at eleonorebaillot@gmail.com
